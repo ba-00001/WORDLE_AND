@@ -45,24 +45,19 @@ The app provides color-coded feedback for user guesses:
 ## Video Walkthrough
 
 
-![App GIF preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/wordle_ios.gif){: width="200px" }
+![App GIF preview](https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_GIF_AND.gif){: width="200px" }
 
 ## App Preview
 
 <!-- Single row of images with names -->
 <div align="center">
   <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Image 1">
-    <figcaption>Wordle App Icon</figcaption>
+    <img src="https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_AND_IMAGE_1.png" width="200" alt="Image 1">
+    <figcaption>Wordle App </figcaption>
   </figure>
   
   <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png" width="200" alt="Image 2">
-    <figcaption>App Launch screen</figcaption>
-  </figure>
-  
-  <figure>
-    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png" width="200" alt="Image 3">
+    <img src="https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_AND_IMAGE_2.png" width="200" alt="Image 3">
     <figcaption>App preview</figcaption>
   </figure>
 </div>
