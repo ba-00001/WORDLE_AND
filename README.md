@@ -42,17 +42,38 @@ The app provides color-coded feedback for user guesses:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+## Video Walkthrough
 
-![Video Walkthrough](http://i.imgur.com/link/to/your/gif/file.gif)
+
+![App GIF preview](https://github.com/ba-00001/WORDLE_IOS/blob/main/wordle_ios.gif){: width="200px" }
+
+## App Preview
+
+<!-- Single row of images with names -->
+<div align="center">
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/IOS_APP_ICON.png" width="200" alt="Image 1">
+    <figcaption>Wordle App Icon</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_LAUNCH_SCREEN.png" width="200" alt="Image 2">
+    <figcaption>App Launch screen</figcaption>
+  </figure>
+  
+  <figure>
+    <img src="https://github.com/ba-00001/WORDLE_IOS/blob/main/WORDLE_APP_PREVIEW.png" width="200" alt="Image 3">
+    <figcaption>App preview</figcaption>
+  </figure>
+</div>
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif portable
 <!-- Recommended tools: [Kap](https://getkap.co/) for macOS [ScreenToGif](https://www.screentogif.com/) for Windows [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I face challenges with the Confetti library and the Gradle version. I will be implementing this for another version
 
 ## License
 
