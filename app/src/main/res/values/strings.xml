@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WORDLE_AND</string>
+    <string name="app_logo_description">Instructions:\nYou have 3 guesses to find a 4-letter word.\nCorrect letter in the right position will be green,\ncorrect letter in the wrong position will be red,\nand incorrect letters will be grey.</string>
+</resources>
