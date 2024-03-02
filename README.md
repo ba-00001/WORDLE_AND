@@ -44,9 +44,7 @@ The app provides color-coded feedback for user guesses:
 
 ## Video Walkthrough
 
-
-![App GIF preview](https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_GIF_AND.gif width="200px")
- <img src=https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_GIF_AND.gif width="200px" alt="GIF 1">
+ <img src=https://github.com/ba-00001/WORDLE_AND/blob/master/WORDLE_GIF_AND.gif width="400px" alt="GIF 1">
 ## App Preview
 
 <!-- Single row of images with names -->
