@@ -40,7 +40,6 @@ The app provides color-coded feedback for user guesses:
 - **Red:** Highlights correct letters in the wrong position.
 - **Grey:** Represents incorrect letters.
 
-## Video Walkthrough
 
 ## Video Walkthrough
 
